@@ -4,6 +4,9 @@ Este repositorio tiene como propósito fortalecer los conocimientos fundamentale
 
 ## 📌 Estructura del repositorio
 
+--
+--
+
 El repositorio está organizado por niveles de dificultad:
 
 - `Ejercicios_Fáciles/`  
